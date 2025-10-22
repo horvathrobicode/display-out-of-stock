@@ -1,0 +1,11 @@
+# WordPress core
+wp-admin/
+wp-includes/
+
+# Logs and databases
+*.log
+*.sql
+
+# OS files
+.DS_Store
+Thumbs.db
