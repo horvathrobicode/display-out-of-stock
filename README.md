@@ -1,17 +1,6 @@
-# Display Out-of-Stock WooCommerce Products
-
-A simple snippet/plugin to include out-of-stock products in WooCommerce WP_Query loops.
-
 ## Installation
 
-1. Copy `display-out-of-stock.php` to your theme or plugin folder.
-2. Activate it if using as a plugin.
-3. The snippet will automatically include out-of-stock products in queries.
+Use this file as a **snippet** in your WordPress site:
 
-## Usage
-
-Works automatically with default WooCommerce product loops.
-
-## License
-
-MIT License
+- Copy `display-out-of-stock.php` into your theme's `functions.php` file, or use a code snippet plugin.
+- The snippet will automatically include out-of-stock products in queries.
